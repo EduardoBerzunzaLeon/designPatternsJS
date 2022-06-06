@@ -11,7 +11,6 @@
             this.implementador.setColor(color);
             this.implementador.print();
         }
-
     }
 
     class EditorWithClear extends Editor {
